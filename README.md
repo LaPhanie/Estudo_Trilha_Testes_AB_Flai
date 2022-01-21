@@ -1,4 +1,5 @@
 # Estudo_Trilha_Testes_AB_Flai
-Notebooks de Estudo das aulas da Trilha de Aprofundamento "Testes AB" do curso Dominando Data Science da FLAI.
+Notebooks de estudo das aulas 2do Módulo "Noções de Inferência Estatística", do curso Dominando Data Science da Flai.
+https://www.flai.com.br/
 
-[Aulas_4_Intro_Intervalos_de_Confiança.ipynb](Aulas_4_Intro_Intervalos_de_Confiança.ipynb)
+
